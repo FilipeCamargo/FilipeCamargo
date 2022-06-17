@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FilipeCamargo;
 - 👀 I’m interested in C# development and basketball;
-- 🌱 I’m currently learning C#, SQL, JS and how to be an IT Manager;
+- 🌱 I’m currently learning C#, SQL, Django and how to be an IT Manager;
 - 💞️ I’m looking to collaborate on some Open Source Projects and maybe create something cool;
 - 📫 How to reach me: Instagram @filipscamargo.
 
