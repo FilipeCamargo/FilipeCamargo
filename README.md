@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @FilipeCamargo;
 - 🙌 A Son of God walking on the earth searching for serve the people, like Jesus done;
-- 👀 Interested in C# development and basketball;
+- 👀 Interested in Front-end development and basketball;
 - 🌱 Currently learning HTML, CSS, Javascript and how to be an IT Manager;
 - 💞️ I’m looking to collaborate on some Projects and maybe create something cool;
 - 📫 How to reach me: Instagram @filipscamargo.
